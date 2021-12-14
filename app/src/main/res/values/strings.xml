@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MobileAnalyticsQuizApp</string>
+    <string name="quiz_tipe">ВИКТОРИНА</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="hint_name">Имя</string>
+    <string name="btn_start">НАЧНЕМ</string>
+    <string name="mob_analytics">МОБИЛЬНАЯ АНАЛИТИКА</string>
+    <string name="text_of_question">Text of question</string>
+    <string name="_0_10">0/10</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="answer_2">answer_2</string>
+    <string name="answer_3">answer_3</string>
+    <string name="answer_4">answer_4</string>
+    <string name="check_answer">ПРОВЕРИТЬ ОТВЕТ</string>
+</resources>
